@@ -1,6 +1,6 @@
 ### Hi there, I'm Rupangkan 👋
 
-## I'm a Student and a boring person!
+## I'm a Student and a boring person 🤕
 
 - 🔭 I’m currently working on a "learning everything at once" project!
 - 🥅 2021 Goals: Contribute more to Open Source projects!
