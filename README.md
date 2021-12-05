@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a "learning everything at once" project!
 - 🥅 2021 Goals: Contribute more to Open Source projects!
-- ⚡ Hobbies: I draw and play guitar and basketball!
+- ⚡ Hobbies: I draw, play guitar and Ball is life 🏀!
 
 ### Connect with me:
 
