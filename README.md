@@ -42,3 +42,19 @@
 [facebook]: https://www.facebook.com/rupangkankalita
 [instagram]: https://www.instagram.com/___rupangkan_repose___/
 
+<br />
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rupangkan" alt="Rupangkan" /></a> </p> -->
+<!-- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rupangkan&show_icons=true&locale=en&layout=compact" alt="Rupangkan" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Rupangkan&show_icons=true&locale=en" alt="Rupangkan" /></p> -->
+
+### Stats:
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rupangkan&show_icons=true&locale=en" alt="Rupangkan" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rupangkan&show_icons=true&locale=en&layout=compact" alt="Rupangkna" /></p>
+
+
