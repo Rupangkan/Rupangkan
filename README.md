@@ -3,7 +3,7 @@
 ## I'm a Student and a boring person 🤕
 
 - 🔭 I’m currently working on a "learning everything at once" project!
-- 🥅 2021 Goals: Contribute more to Open Source projects!
+- 🥅 2022 Goals: Contribute more to Open Source projects improve CP rating!
 - ⚡ Hobbies: I draw, play guitar and Ball is life 🏀!
 
 ### Connect with me:
