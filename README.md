@@ -1,6 +1,6 @@
 ### Hi there, I'm Rupangkan 👋
 
-## I'm a Student 🤕
+## Developer🤕
 
 - 🔭 I’m currently working on a "learning everything at once" project!
 - ⚡ Hobbies: I draw, play guitar and Ball is life 🏀!
