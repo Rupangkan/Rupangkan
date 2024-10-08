@@ -1,8 +1,5 @@
 ### Hi there, I'm Rupangkan 👋
 
-- 🔭 I’m currently working on a "learning everything at once" project!
-- ⚡ Hobbies: I draw, play guitar and Ball is life 🏀!
-
 ### Connect with me:
 
 [<img align="left" alt="rupangkan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
