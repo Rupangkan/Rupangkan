@@ -2,8 +2,8 @@
 
 ### Connect with me:
 
+[<img align="left" alt="rupangkan | Linkedin" width="22px" src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
 [<img align="left" alt="rupangkan | Facebook" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" />][facebook]
-[<img align="left" alt="rupangkan | Instagram" width="22px" src="https://skillicons.dev/icons?i=instagram" />][instagram]
 
 <br />
 
@@ -31,8 +31,8 @@
 
 
 
-[facebook]: https://www.facebook.com/rupangkankalita
-[instagram]: https://www.instagram.com/_rupangkan_/
+[facebook]: https://www.facebook.com/rupangkankalita/
+[linkedin]: https://www.linkedin.com/in/rupangkan/
 
 <br />
 
