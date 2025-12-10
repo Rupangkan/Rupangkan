@@ -1,6 +1,6 @@
-### Hi there, I'm Rupangkan 👋
+## Hi there, I'm Rupangkan 👋
 
-## Connect with me:
+### Connect with me:
 
 [<img align="left" alt="rupangkan | Linkedin" width="22px" src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
 
